@@ -1,4 +1,4 @@
-Course-End Project: MLB Digital Platform Enhancement
+# Course-End Project: MLB Digital Platform Enhancement
 Problem Statement:
 The Major League Baseball (MLB) is a famous league with one of the highest viewership. They are planning to update their digital platform for faster load times
 and superior user experience. As part of the development team, you have to support the backend development. You are required to create modules to manage player
@@ -11,7 +11,6 @@ team management
 3. To implement a multi-threaded report generation system for performance
 efficiency
 
-MLB-DIGITAL-PLATFORM-ENHANCEMENT-SYSTEM
 This system demonstrates:  
 1. Player Management
 2. Team Management
